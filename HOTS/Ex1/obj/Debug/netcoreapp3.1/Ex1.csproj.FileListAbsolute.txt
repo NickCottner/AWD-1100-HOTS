@@ -1,0 +1,13 @@
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\Nick Cottner\Desktop\HOTS\HOT1\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache
