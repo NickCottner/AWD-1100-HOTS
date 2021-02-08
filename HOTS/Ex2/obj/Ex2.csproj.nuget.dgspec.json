@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nick Cottner\\Desktop\\HOTS\\HOT1\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\HOTS\\HOTS\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nick Cottner\\Desktop\\HOTS\\HOT1\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\HOTS\\HOTS\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nick Cottner\\Desktop\\HOTS\\HOT1\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\HOTS\\HOTS\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\Nick Cottner\\Desktop\\HOTS\\HOT1\\Ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\HOTS\\HOTS\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\Nick Cottner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nick Cottner\\Desktop\\HOTS\\HOT1\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\HOTS\\HOTS\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nick Cottner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
