@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\bin\Debug\netcoreapp3.1\EX1.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\bin\Debug\netcoreapp3.1\EX1.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\bin\Debug\netcoreapp3.1\EX1.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\bin\Debug\netcoreapp3.1\EX1.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\bin\Debug\netcoreapp3.1\EX1.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\bin\Debug\netcoreapp3.1\EX1.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.FormCD.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\HOT5\Card Designer\EX1\obj\Debug\netcoreapp3.1\EX1.genruntimeconfig.cache
