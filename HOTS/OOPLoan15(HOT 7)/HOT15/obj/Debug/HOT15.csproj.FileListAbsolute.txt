@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\bin\Debug\HOT15.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\bin\Debug\HOT15.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\bin\Debug\HOT15.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.FormBankLoan.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\HOTS\HOTS\OOPLoan15(HOT 7)\HOT15\obj\Debug\HOT15.pdb
